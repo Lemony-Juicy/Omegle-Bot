@@ -1,4 +1,4 @@
-# OmegleBot
+# Omegle Bot
 A simple bot made with selenium for Omegle. The bot sends a randomly selected phrase in the text section of omegle.
 
 ## Prerequisites
