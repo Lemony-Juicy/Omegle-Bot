@@ -8,8 +8,8 @@ After downloading the **Bot.py** file in a folder:
 - Ensure you have python 3.7+ and the **selenium package installed**. To install selenium enter `pip install selenium` in Command Prompt.  
   
 ---
-> **Note**  
-> You can download [Chrome Driver Here](https://chromedriver.chromium.org/downloads)  
+**Note**  
+You can download [Chrome Driver Here](https://chromedriver.chromium.org/downloads)  
 ---
 
 ## License
