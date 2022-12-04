@@ -9,4 +9,3 @@ After downloading the **Bot.py** file in a folder:
   
 > **Note**  
 > You can download [Chrome Driver Here](https://chromedriver.chromium.org/downloads)  
----
