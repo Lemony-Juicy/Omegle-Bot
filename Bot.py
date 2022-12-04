@@ -46,7 +46,7 @@ class OmegleBot(object):
         self.click_new_chat()
 
     def begin_sending(self):
-        for _ in range(random.randint(1, 3)):
+        for _ in range(random.randint(5, 15)):
             try:
                 sleep(random.randint(2, 5))
                 input_wrapper = self.br.find_element(*CHAT_MSG_WRAPPER)
@@ -64,7 +64,6 @@ class OmegleBot(object):
 def main():
     bot = OmegleBot()
     bot.begin_sending()
-    input()
 
 
 if __name__ == '__main__':
